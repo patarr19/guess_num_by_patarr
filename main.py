@@ -38,6 +38,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 #первая версия на русском. скоро вторая версия с кнопкой "показать правильный ответ".
 #возможно, будет версия в тг боте(aiogram)
+#there are some bugs. i will fix this in near time
